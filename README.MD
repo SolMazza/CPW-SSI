@@ -5,8 +5,8 @@
 <h2>Objetivo da Cadeira: </h2>
 <p> Desenvolver um Projeto Web baseado nos Padrões Web recomendados pelo W3C, utilizando as linguagens HTML, CSS, Java Script.</p>
 
-<h2>Sobre o Repositótio: <h2>
-<p>A estrutura do repositório será separada por aulas, conforme a o conteúdo da aula, cada pasta pode ter mais ou menos arquivos</p>
+<h2>Sobre o Repositório: <h2>
+<p>A estrutura do repositório será separada por aulas, conforme o conteúdo da aula, cada pasta pode ter mais ou menos arquivos</p>
 
 
 <h2>Projeto Final da Cadeira: <h2>
